@@ -23,7 +23,7 @@ Python, functions, while loops, dictionaries, conditional statements, string met
 - **Last modified locally:** October 3, 2025 (based on my saved file's timestamp)
 - **Published to GitHub:** October 23, 2026
 
-The local timestamp shows when the file was last modified, not necessarily when it was first created.
+
 
 ## How to run it
 
